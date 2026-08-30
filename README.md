@@ -2,7 +2,7 @@
 PID-based satellite attitude control using MATLAB Simulink, Verilog HDL, and ModelSim.
 # Simulation and Digital Implementation of a PID-Based Satellite Attitude Control System
 
-## Abstract
+## 1. Abstract
 
 This project presents the design and simulation of a **single-axis satellite attitude control system** using a PID controller and a reaction-wheel actuator. The system was developed using **MATLAB Simulink** for spacecraft-level modeling and **Verilog HDL with ModelSim** for digital controller implementation and verification.
 
